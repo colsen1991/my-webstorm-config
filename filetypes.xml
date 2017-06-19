@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="sgr" type="Jade" />
       <mapping ext="ldb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
