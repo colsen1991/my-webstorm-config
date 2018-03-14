@@ -11,6 +11,7 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="utils/path" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="keepme" type="PLAIN_TEXT" />
       <mapping pattern="blog-post-top" type="Vue.js" />
     </extensionMap>
